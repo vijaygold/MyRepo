@@ -1,3 +1,7 @@
+//Prime number!
+/*
+ *Hi how are u? 
+ */
 import java.lang.*;
 import java.util.*;
 class Prime
