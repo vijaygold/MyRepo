@@ -2,7 +2,6 @@
 /*
  *Hi how are u? 
  */
-import java.lang.*;
 import java.util.*;
 class Prime
 {
@@ -12,6 +11,8 @@ class Prime
 			System.out.println("enter the number");
 			int n=s.nextInt();
 			int count=0;
+			
+			//This is the logic for finding a given number is prime or not!
 			for(int i=1;i<=n;i++)
 			{
 				if(n%i==0)
